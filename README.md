@@ -13,6 +13,7 @@ You must have created your Klipper installation with the user 'biqu'; the script
 ```bash
 git clone https://github.com/zhangyumingsh/YUMI_PLR.git
 cd YUMI_PLR
+sudo chmod +x ./*.sh
 ./install.sh
 ```
 
